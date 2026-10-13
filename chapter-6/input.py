@@ -23,3 +23,9 @@ y= input("marks of suject 1")
 z= input("marks of subject 2")
 r= input("marks of subject 3")
 print(f"my name is {x} & i have scored persentage { ((int(y)+int(z)+int(r))/3)}")
+
+
+
+
+
+print("thank you for using this program")
